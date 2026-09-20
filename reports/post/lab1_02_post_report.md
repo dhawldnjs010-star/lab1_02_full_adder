@@ -1,6 +1,6 @@
 # 실험 후 레포트: LAB1-02 전가산기 (반가산기 두 개의 연결)
 
-작성자: 엄상혁 (학번 ______) / 조: g조 / 실험일: 2026-09-14 / 소스 커밋: `c2c88f3` (https://github.com/dhawldnjs010-star/lab1_02_full_adder/commit/c2c88f380d5622390cde18cf3393613125fd0816) / 구현 도구·버전: Vivado 2026.1 (Build 6511674) / part: xc7s75fgga484-1 / top: `full_adder` (시뮬레이션 top `tb_full_adder`) / XDC: `constraints/pins.xdc`
+작성자: 엄상혁 (학번 2025440084) / 조: g조 / 실험일: 2026-09-14 / 소스 커밋: `c2c88f3` (https://github.com/dhawldnjs010-star/lab1_02_full_adder/commit/c2c88f380d5622390cde18cf3393613125fd0816) / 구현 도구·버전: Vivado 2026.1 (Build 6511674) / part: xc7s75fgga484-1 / top: `full_adder` (시뮬레이션 top `tb_full_adder`) / XDC: `constraints/pins.xdc`
 
 경로: Vivado 경로로 수행했다.
 
@@ -45,7 +45,7 @@
 
 - Hardware Manager 콘솔에서 `program_hw_devices`가 2회 실행되었다.
 
-- 배선·입력·출력이 보이는 영상: `evidence/board/videos/20260914_150235.mp4` (2026-09-14 15:02:35 촬영).
+- 배선·입력·출력이 보이는 영상: [Google Drive 폴더](https://drive.google.com/drive/folders/19cb-QrgP2ohei5ensEIVP9klSHbHsq7N)의 `20260914_150235.mp4` (2026-09-14 15:02:35 촬영).
 
 
 | 조건 | 예상 출력 | 실측 출력 | 사진/영상 시각 | 일치 여부·원인 |
@@ -72,4 +72,4 @@
 
 ## 제출 링크
 
-소스 커밋: https://github.com/dhawldnjs010-star/lab1_02_full_adder/commit/c2c88f380d5622390cde18cf3393613125fd0816 / 실험 전 레포트: `reports/pre/lab1_02_pre_report.md` / 로그·VCD: `evidence/simulation.txt`, `evidence/wave.vcd`, `evidence/vivado/` / bit·해시: 위 3절 (SHA-256 `2182ae5a3d7f0fa2584830f99799c0196f1b74c5c01f51a5d025e68fd7d18766`) / 영상: `evidence/board/videos/20260914_150235.mp4` / GitHub에서 링크 확인한 날짜: ______
+소스 커밋: https://github.com/dhawldnjs010-star/lab1_02_full_adder/commit/c2c88f380d5622390cde18cf3393613125fd0816 / 실험 전 레포트: `reports/pre/lab1_02_pre_report.md` / 로그·VCD: `evidence/simulation.txt`, `evidence/wave.vcd`, `evidence/vivado/` / bit·해시: 위 3절 (SHA-256 `2182ae5a3d7f0fa2584830f99799c0196f1b74c5c01f51a5d025e68fd7d18766`) / 영상: https://drive.google.com/drive/folders/19cb-QrgP2ohei5ensEIVP9klSHbHsq7N (`20260914_150235.mp4`) / GitHub에서 링크 확인한 날짜: ______
